@@ -1,10 +1,6 @@
 package com.company;
 
-import jdk.internal.org.jline.utils.AttributedString;
-import jdk.internal.org.jline.utils.DiffHelper;
-
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 
 public class Main {
