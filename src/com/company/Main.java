@@ -22,7 +22,8 @@ public class Main {
                 set2.add(0);
                 set2.add(1);
                 set2.add(2);
-
+        System.out.println("set1: "+set1+"\n"+"set2: "+set2);
+        System.out.print("symmetric set difference: ");
                 symmetricSetDifference(set1, set2);
             }
 
